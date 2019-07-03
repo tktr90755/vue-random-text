@@ -1,5 +1,7 @@
 # vue-random-text
+ランダムテキストとその使用例を実装した。
 
+[DEMO](https://tktr90755.github.io/vue-random-text/) 
 ## Project setup
 ```
 npm install
